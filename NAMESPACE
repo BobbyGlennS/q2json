@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+import(purrr)
+import(magrittr)
+import(stringr)

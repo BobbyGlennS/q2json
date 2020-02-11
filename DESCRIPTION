@@ -1,0 +1,15 @@
+Package: q2json
+Type: Package
+Title: Converts FDS quizes to json structure
+Version: 0.1.0
+Author: Bobby Stuijfzand
+Maintainer: Bobby Stuijfzand <bobby.stuijfzand@epfl.ch>
+Description: Takes a quiz question from FDS as a string as input. And returns it as a json string.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Imports: 
+  magrittr,
+  purrr,
+  stringr,
+  glue
